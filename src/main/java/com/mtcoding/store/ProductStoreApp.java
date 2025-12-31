@@ -9,8 +9,8 @@ public class ProductStoreApp {
 
 
             //(2) id = 1번 지윤 -> 이지윤으로 변경
-            int result = repo.updateOne(1,"이지윤","female",29);
-            System.out.println("결과: "+result);
+            //int result = repo.updateOne(1,"이지윤","female",29);
+            //System.out.println("결과: "+result);
         }
     }
 
